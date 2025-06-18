@@ -1,0 +1,1 @@
+This is a simple Tic Tac Toe game built using Python for two players to play on the same machine. Players take turns marking spaces in a 3×3 grid with X or O. The game checks for a win or draw after each move and displays the result. It's a fun and interactive console-based project, ideal for beginners learning Python basics, loops, and conditionals.
